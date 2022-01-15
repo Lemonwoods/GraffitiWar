@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GAnimationSprite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GBomb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GBrush.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GDraw.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GFlame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GFrozen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GMenu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GMoveDot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GMyConsole.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GObstacleDot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GObstacleDotArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GProp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GPropArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GShell.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GSpecialArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GSprite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GtagResDesc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GTank.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GTimer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GAnimationSprite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GBomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GBrush.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GDraw.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GFlame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GFrozen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GMenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GMoveDot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GMyConsole.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GObstacleDot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GObstacleDotArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GProp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GPropArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GShell.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GSpecialArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GSprite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GTank.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GTimer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
